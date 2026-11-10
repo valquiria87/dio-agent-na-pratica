@@ -78,20 +78,26 @@ Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada p
 
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+<img width="926" height="559" alt="image" src="https://github.com/user-attachments/assets/bde9a519-f00d-4ae3-8c03-da9bae1bece6" />
+
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="892" height="432" alt="image" src="https://github.com/user-attachments/assets/5004d37a-05bc-49ab-9217-50e08f5a3671" />
+
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+<img width="1014" height="530" alt="image" src="https://github.com/user-attachments/assets/0d000f48-3c05-4b8c-82b0-650792e84798" />
+
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="1028" height="511" alt="image" src="https://github.com/user-attachments/assets/61026ff7-3d56-444e-a641-8e566fcd427b" />
+
 
 ### Como foi para você
+
+Foi uma experiência muito produtiva! Consegui enxergar melhor onde estou na minha jornada com IA, reconhecer o quanto já evoluí e identificar o que ainda preciso aprender.
 
 _Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
